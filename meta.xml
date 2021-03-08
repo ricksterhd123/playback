@@ -1,0 +1,16 @@
+<meta>
+    <info author="exile" name="playback" description="record stunts in-game"/>
+    <script src="orbitcam/matrix.lua" type="client"/>
+    <script src="orbitcam/utils_c.lua" type="client"/>
+    <script src="orbitcam/client.lua" type="client"/>
+    <script src="freecam/freecam.lua" type="client"/>
+
+    <script src="const.lua" type="client" cache="false"/>
+    <script src="filehandler.lua" type="client" cache="false"/>
+
+    <script src="record.lua" type="client" cache="false"/>
+    <script src="play.lua" type="client" cache="false"/>
+
+    <script src="gui.lua"  type="client" cache="false"/>
+    <script src="server.lua" type="server" cache="false"/>
+</meta>
